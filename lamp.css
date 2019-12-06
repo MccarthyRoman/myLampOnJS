@@ -1,1 +1,50 @@
-css file
+body {
+    background-color: rgb(87, 82, 78);
+}
+
+#buttonOn {
+    position: relative;
+    top: 106px;
+    left: 39px;
+    width: 35px;
+    height: 45px;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    background-color: whitesmoke;
+}
+
+#buttonOff {
+    position: relative;
+    top: 150px;
+    width: 35px;
+    height: 45px;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: gray;
+}
+
+
+#bulb {
+    background-color: #C8C8C8;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    
+}
+
+.leg {
+    background-color: #282828;
+    height: 20px;
+    width: 120px;
+    margin-top: 4px;
+    position: relative;
+    top: 280px;
+    left: 90px;
+    border-radius: 22%;
+
+}
+
+
